@@ -1,3 +1,18 @@
+#habit class that would contain info about habit
+#day class that contains date
+#for now i'm trying not to think to far, cause i really want to overcomplicate things and
+#start thinking how to fit data into database and split data for multiple users and login system.
+
+#and now i'm thinking do i realy need to have classes for day and habit?
+#I think so,cause it would be just easier to create 
+#new Habit(bla bla bla) new day(date.now [habit1 habit2]) 
+
+
+def main():
+    pass
+
+if __name__ == "__main__":
+    main()
 #program idea
 #Simple GUI habit tracker app 
 #Functional reqs:
