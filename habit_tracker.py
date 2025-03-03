@@ -1,11 +1,4 @@
-#habit class that would contain info about habit
-#day class that contains date
-#for now i'm trying not to think to far, cause i really want to overcomplicate things and
-#start thinking how to fit data into database and split data for multiple users and login system.
-
-#and now i'm thinking do i realy need to have classes for day and habit?
-#I think so,cause it would be just easier to create 
-#new Habit(bla bla bla) new day(date.now [habit1 habit2]) 
+FILENAME = "data.pkl"
 
 
 def main():
@@ -13,6 +6,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#questions i got:
+#Is it better to store data in classes or just in dicts?
+#Is pickle is good choice for storing data for further expantion?
+#How to reasonable split logic in files?
+
+
+
 #program idea
 #Simple GUI habit tracker app 
 #Functional reqs:
