@@ -28,20 +28,7 @@ def load_days(filename):
             except EOFError:
                 return days
 
-
-#Okay editing is the most complicated cause i need to find an exact day and update it if i can
-#If i can't i need to rewrite whole thing??? hmm
-#also i need presice data what to change
-#ok for now it can work just as a switch for true\false, but later it might need more complex logic
-#and also i'm thinking of another way to saving data
-
-
-#load everything
-#clear everything
-#find exact day and habit i need
-#change that day and habit i eed
-#write everything down once again with changes
-def change_habit_state(filename, date,habit_name):
+def change_habit_state(filename, date, habit_name):
     days = load_days(filename)
     clear_file(filename)
     for day in days:
