@@ -1,0 +1,17 @@
+{
+    "habits": [
+        {
+            "id": 1,
+            "name": "Meditation",
+            "description": "10 mins of meditation"
+        }
+    ],
+    "days": [
+        {
+            "date": "2025-03-06",
+            "habits": {
+                "1": false
+            }
+        }
+    ]
+}
