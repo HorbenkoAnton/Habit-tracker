@@ -1,0 +1,10 @@
+{
+    "habits": {
+      "Habit1": "Description1",
+      "Habit2": "Description2"
+    },
+    "progress": {
+      "2025-03-17": {"Habit1": true, "Habit2": false},
+      "2025-03-18": {"Habit1": true, "Habit2": true}
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "habits": {
+        "Reading": "Have u read something today?",
+        "Meditating": "Did you medited 10 mins for today?",
+        "Gamble": "Did you gambled all of your savings today?"
+    },
+    "progress": {
+        "2025-03-17": {
+            "Reading": false,
+            "Meditating": false,
+            "Gamble": false
+        },
+        "2025-03-18": {
+            "Reading": false,
+            "Meditating": false,
+            "Gamble": false
+        },
+        "2025-03-22": {
+            "Reading": false,
+            "Meditating": false,
+            "Gamble": false
+        },
+        "2025-03-21": {
+            "Reading": true,
+            "Meditating": true,
+            "Gamble": false
+        },
+        "2025-03-20": {
+            "Reading": true,
+            "Meditating": true,
+            "Gamble": false
+        }
+    }
+}
